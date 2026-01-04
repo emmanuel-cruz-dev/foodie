@@ -2,9 +2,6 @@
 
 Este proyecto es una página web de recetas de cocina creada como parte de un curso de desarrollo web en YouTube. Utilicé HTML, CSS, y algo de JavaScript para implementar un diseño atractivo y funcional.
 
-## Demo en vivo
-[Visita la página aquí](https://emmalcruz.github.io/foodie/)
-
 ## Tecnologías utilizadas
 - HTML
 - CSS
